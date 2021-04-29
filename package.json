@@ -1,7 +1,7 @@
 {
   "name": "vue-plugins-notify",
   "description": "支持vue2.x、nuxt的通知插件",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "main": "dist/vue-plugins-notify.min.js",
   "publisher": "zcy2764707016@gmail.com",
