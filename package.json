@@ -1,7 +1,26 @@
 {
-  "name": "plugins-notify",
+  "name": "vue-plugins-notify",
+  "description": "支持vue2.x、nuxt的通知插件",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/vue-plugins-notify.min.js",
+  "publisher": "zcy2764707016@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcyzzu/vue-plugins-notify.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue2",
+    "vue",
+    "notify",
+    "通知",
+    "提示",
+    "notification"
+  ],
+  "author": "zcy",
+  "license": "MIT",
+  "homepage": "https://github.com/zcyzzu/vue-plugins-notify#readme",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
